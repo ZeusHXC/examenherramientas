@@ -1,3 +1,3 @@
 # examenherramientas
-OSCAR JOSÉ PAGUAGA MERLO
-0704199300236
+Examen segundo parcial
+OSCAR JOSÉ PAGUAGA MERLO.
